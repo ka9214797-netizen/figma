@@ -1,0 +1,50 @@
+:root{
+    --primary: #5E3BEE;
+    --secondary: #FFFFFF;
+    --tertiory: #F5FCFF;
+}
+.nav{
+    position: sticky !important;
+    background-color: var(--secondary) !important;
+    justify-content: center !important;
+}
+.grace{
+    background-color: var(--primary) !important;
+     outline: none !important; 
+     border: none !important; 
+    color: white !important;
+    justify-content: end !important;
+}
+.lesson{
+     color: var(--primary) !important;
+    /* color: #5E3BEE !important; */
+    border-color: var(--primary) !important;
+} 
+:hover.lesson{
+    background-color: white !important;
+}
+.home{
+    color: var(--primary);
+}
+.hero{
+    background-color: var(--tertiory) !important;
+}
+.custom{
+     gap: 276px !important; 
+}
+.formm{
+    border-color: var(--primary) !important;
+}
+.intence{
+    background-color: var(--primary);
+     outline: none !important; 
+     border: none !important; 
+    color: white !important;
+    border-radius: 5px !important;
+}
+.anker{
+    color: black !important;
+}
+.foot{
+    background-color: var(--tertiory) !important;
+}
