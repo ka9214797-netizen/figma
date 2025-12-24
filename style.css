@@ -48,3 +48,9 @@
 .foot{
     background-color: var(--tertiory) !important;
 }
+.review{
+    background-color: var(--tertiory) !important;
+}
+.unit{
+    gap: 50px !important;
+}
