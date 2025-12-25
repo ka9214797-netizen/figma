@@ -54,3 +54,6 @@
 .unit{
     gap: 50px !important;
 }
+html, body {
+    overflow-x: hidden;
+}
